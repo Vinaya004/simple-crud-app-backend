@@ -1,6 +1,6 @@
 Simple CRUD API – Backend Project
 
-This is a basic CRUD (Create, Read, Update, Delete) API** built using Node.js, Express, and MongoDB.
+This is a basic CRUD (Create, Read, Update, Delete) API built using Node.js, Express, and MongoDB.
 
 The project was developed to strengthen my backend development skills by implementing RESTful API principles, connecting to a MongoDB database, and handling HTTP operations securely and efficiently.
 
